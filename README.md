@@ -1,4 +1,4 @@
-**Alchemy Connect** is a smart pla and local events using passion into community action.tform that connects volunteers with Built with modern web technologies 
+**Alchemy Connect** is a smart platform and local events using passion into community action.tform that connects volunteers with Built with modern web technologies 
 
 - **User Authentication**: Secure login and registration system with JWT tokens
 - **Dual User Roles**: 
