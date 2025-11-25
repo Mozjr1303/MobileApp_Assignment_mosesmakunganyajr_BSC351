@@ -260,7 +260,9 @@ This project is created for educational purposes as part of the BSC-351 course.
 
 For questions or feedback about this project:
 - Email: [mosesmakunganyajr@gmail.com]
-- GitHub: [Your GitHub Profile]
+- GitHub: [
+Mozjr1303
+]
 
 ---
 
